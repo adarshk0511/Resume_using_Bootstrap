@@ -97,3 +97,15 @@ h5{
 
     margin-top: 2%;
 }
+
+@media (max-width:730px) {
+    #abt,#ski,#hob,#re,#ho{
+        margin-left: 3.5%;
+    }
+    #res{
+        margin-left: 35%;
+    }
+    #hb{
+        margin-left: 2%;
+    }
+}
